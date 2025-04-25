@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 A software Engineer<br>👯 I’m looking to collaborate onAlways open to collaborating on projects that blend clean code with smarter AI systems.<br>🤝  Seeking guidance on building better test automation workflows and scalable QA pipelines.<br>🌱  Expanding my skills in JavaScript and exploring the power of front-end testing tools<br>💬 Happy to chat about web standards, annotation strategies, or how to QA like a pro.<br>⚡Fun fact: I once built a simple annotation tool that ended up in a machine learning lab demo!
+🧠 A software Engineer<br>👯 Always open to collaborating on projects that blend clean code with smarter AI systems.<br>🤝  Seeking guidance on building better test automation workflows and scalable QA pipelines.<br>🌱  Expanding my skills in JavaScript and exploring the power of front-end testing tools<br>💬 Happy to chat about web standards, annotation strategies, or how to QA like a pro.<br>⚡Fun fact: I once built a simple annotation tool that ended up in a machine learning lab demo!
 
 
 ## 🌐 Socials:
